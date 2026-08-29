@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anziteng.github.io/litbuy-spreadsheet-return-evidence-packet/sitemap.xml
